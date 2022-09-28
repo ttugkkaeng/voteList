@@ -7,14 +7,13 @@
 <title>Insert title here</title>
 </head>
 <body>
-
 		
 
-	<h1>µ¿¹°ÀÇ ¿Õ »Ì±â</h1>
+	<h1>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½Ì±ï¿½</h1>
 	<form action="">
-		<input type="radio" value="1"/>È£¶ûÀÌ
-		<input type="radio" value="2"/>ÄÚ³¢¸®
-		<input type="radio" value="3"/>µ¶¼ö¸®
+		<input type="radio" value="1"/>È£ï¿½ï¿½ï¿½ï¿½
+		<input type="radio" value="2"/>ï¿½Ú³ï¿½ï¿½ï¿½
+		<input type="radio" value="3"/>ï¿½ï¿½ï¿½ï¿½
 		<input type="submit"/>
 	</form>
 </body>
