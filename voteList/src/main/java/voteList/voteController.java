@@ -18,8 +18,7 @@ public class voteController {
 	String doubleCheck(voteController votecontroller,Model model) {
 		
 		
-		
-		
+	
 		
 		return "";
 		
