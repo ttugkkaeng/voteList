@@ -6,7 +6,6 @@ public class LoginCheck {
 
 	String id = request.getParameter("id");
 	String pw = request.getParameter("pwd");
-	
 
 	String url = "jdbc:oracle:thin:@18.183.36.185:13306";
 	String uid = "JSP";
