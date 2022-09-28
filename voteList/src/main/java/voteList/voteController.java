@@ -17,7 +17,6 @@ public class voteController {
 	@RequestMapping("/voteResult")
 	String doubleCheck(voteController votecontroller,Model model) {
 		
-		
 	
 		
 		return "";
