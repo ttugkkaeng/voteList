@@ -7,6 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+
+<h1>vote view</h1>
+
 		
 
 	<h1>������ �� �̱�</h1>
@@ -16,5 +19,6 @@
 		<input type="radio" value="3"/>����
 		<input type="submit"/>
 	</form>
+
 </body>
 </html>
