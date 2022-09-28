@@ -15,7 +15,6 @@
 	<h1>동물의 왕 뽑기</h1>
 	
 	
-	
 	<form action="voteResult" method="post">
 		<input type="radio" name="selectNum"value="1"/>호랑이
 		<input type="radio" name="selectNum" value="2"/>코끼리
